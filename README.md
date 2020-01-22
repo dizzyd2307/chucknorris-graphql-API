@@ -1,6 +1,8 @@
 # chucknorris-graphql-API
 GraphQL App wrapped around ChuckNorris.io API
 
+### To Start API
+open up Terminal and enter **node index.js** to start up the API on localhost:4000
 ### First Type
 
 ```javascript
